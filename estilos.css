@@ -137,3 +137,24 @@
             background-image: url("imagen.jpg");
             
             }
+
+
+            .imgbiologia{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 1000px;
+                
+                width: 1000px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("image.png");
+                
+                }
