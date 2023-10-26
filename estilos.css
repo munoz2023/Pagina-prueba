@@ -52,7 +52,7 @@
      
     
         width: 100%;
-        height: 1400px;
+        height: 270px;
         background-color: rgb(253, 253, 253);
     
      
@@ -61,7 +61,7 @@
     
     .texto{
     
-    font-size: 40px;
+    font-size: 30px;
     
     text-align: justify;
     
@@ -157,11 +157,209 @@
                 margin-right:5px;
                 
                 background-image: url("image.png");
-                
+            
                 }
 
-                
-           
-                
+                .imgsoc3{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 1000px;
+                    
+                    width: 1000px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("ul.jpg.png");
+                    
+                    }
 
-          
+                    .telarsoc3{
+        
+         
+        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 1000px;
+                        
+                        width: 1000px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("telarmec.jpg");
+                        
+                        }
+
+                
+                        .desmotadorasoc3{
+        
+         
+        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 1000px;
+                            
+                            width: 1000px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("images.jpg");
+                            
+                            }
+
+                            .alumpubsoc3{
+        
+         
+        
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 1000px;
+                                
+                                width: 1000px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("alumbrado.jpg");
+                                
+                                }
+
+                                .electroisoc3{
+        
+         
+        
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 1000px;
+                                    
+                                    width: 1000px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("iman.jpg");
+                                    
+                                    }
+
+                                    .lafotosoc3{
+        
+         
+        
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 1000px;
+                                        
+                                        width: 1000px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("lafoto.jpg");
+                                        
+                                        }
+    
+                                        .rockrtsoc3{
+        
+         
+        
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 1000px;
+                                            
+                                            width: 1000px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("rocket.jpg");
+                                            
+                                            }
+        
+                                            .telesoc3{
+        
+         
+        
+                                                background-repeat: no-repeat;
+                                                
+                                                float:left;
+                                                
+                                                height: 1000px;
+                                                
+                                                width: 1000px;
+                                                
+                                                margin-left: 5px;
+                                                
+                                                margin-right:5px;
+                                                
+                                                background-image: url("telegrafo.jpg");
+                                                
+                                                }
+
+                                                .martillosoc3{
+        
+         
+        
+                                                    background-repeat: no-repeat;
+                                                    
+                                                    float:left;
+                                                    
+                                                    height: 1000px;
+                                                    
+                                                    width: 1000px;
+                                                    
+                                                    margin-left: 5px;
+                                                    
+                                                    margin-right:5px;
+                                                    
+                                                    background-image: url("martillo.jpg");
+                                                    
+                                                    }
+
+                    
+                                                    .acerosoc3{
+        
+         
+        
+                                                        background-repeat: no-repeat;
+                                                        
+                                                        float:left;
+                                                        
+                                                        height: 1000px;
+                                                        
+                                                        width: 1000px;
+                                                        
+                                                        margin-left: 5px;
+                                                        
+                                                        margin-right:5px;
+                                                        
+                                                        background-image: url("acero.jpg");
+                                                        
+                                                        }
+            
+        
