@@ -353,7 +353,7 @@
                                                         height: 304px;
                                                         
                                                         width: 367px;
-                                                        
+     
                                                         margin-left: 5px;
                                                         
                                                         margin-right:5px;
@@ -362,4 +362,44 @@
                                                         
                                                         }
             
+                                                        .tecnocomu3{
         
+         
+        
+                                                            background-repeat: no-repeat;
+                                                            
+                                                            float:left;
+                                                            
+                                                            height: 707px;
+                                                            
+                                                            width: 1220px;
+         
+                                                            margin-left: 5px;
+                                                            
+                                                            margin-right:5px;
+                                                            
+                                                            background-image: url("evoluciónteg3.jpg");
+                                                            
+                                                            }
+
+                                                            .tiempoc3{
+        
+         
+        
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                float:left;
+                                                                
+                                                                height: 555px;
+                                                                
+                                                                width: 1665px;
+             
+                                                                margin-left: 5px;
+                                                                
+                                                                margin-right:5px;
+                                                                
+                                                                background-image: url("tecnoloenelt.jpg");
+                                                                
+                                                                }
+                
+            
